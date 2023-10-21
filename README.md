@@ -9,7 +9,7 @@ Here are some ideas to get you started: -->
 - 🌱 I’m currently learning ...HTML/CSS
 <!--- 👯 I’m looking to collaborate on ...HTML/CSS
 - 🤔 I’m looking for help with ...Nothing Right Now
-- 💬 Ask me about ...HTML/CSS-->>
+- 💬 Ask me about ...HTML/CSS-->
 - 📫 How to reach me: ... markswag101@gmail.com 
 - 😄 Pronouns: ...He/Him
 - ⚡ Fun fact: ...Love Music & Sports (Football,Basketball e.t.c)
